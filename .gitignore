@@ -1,0 +1,15 @@
+# Base de datos local
+*.db
+pos_abarrotes.db
+pos_system.db
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Compilaciones y entornos
+build/
+dist/
+*.spec
+venv/
+env/
