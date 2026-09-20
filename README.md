@@ -1,6 +1,6 @@
 # Punto de Venta – Tienda de Abarrotes
 
-Sistema de punto de venta de escritorio, 100% offline, hecho en Python.
+Sistema de punto de venta de escritorio, 100% offline, hecho en Python. Este proyecto esta bonito good
 
 ## ⚠️ Si ya tenías una versión anterior instalada
 
